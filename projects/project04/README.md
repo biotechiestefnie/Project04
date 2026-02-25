@@ -60,7 +60,7 @@ We struggled in implementation mainly becuase we were unsure of how edges and no
 
 # Personal Reflections
 ## Group Leader
-Group leader's reflection on the project
+Spencer: I struggled the most with this weeks project, with understanding what we wanted our code to do. I personally struggled with converting a visual interpretation of a graph to an executable program that assembles reads. I think that a huge success in the face of these challenges was our groups ability to collaborate, share resources, talk through concepts and lift each other up. Through many meetings and collaboration we were able to work out a solution and implement 
 
 ## Other members
 Thu Thu Han - I personally believe that this week's project was one of the most challenging ones. I struggled during the implementation of the nodes and edges and part of it is becuase I struggled with visualizing the graph. As a group we went through many resources to understand the DeBruijn Graph Algorithm and I think the resources my teammate has shared really helped me to start understanding. I think our meeting as a group with Marcus has helped a lot as well as he gave us hints of how to implement the graph and gave us a brief overview of the struggles we should expect from implementation. I think with this project I really learned alot in many aspects. I got to explore new data structures like stack and new algorithms like the sliding window algorithm.
